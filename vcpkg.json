@@ -1,0 +1,6 @@
+{
+  "name": "simple-error",
+  "version": "1.0.0",
+  "homepage": "https://github.com/xenontrioxide/simple_error",
+  "description": "C++ Module for a struct that be can be used with std::unexpected"
+}
