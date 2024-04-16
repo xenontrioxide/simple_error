@@ -1,6 +1,8 @@
 cmake_minimum_required(VERSION 3.20)
 project(simple_error VERSION 1.0.0 DESCRIPTION "C++ Module for a struct that be can be used with std::unexpected.")
 
+include(GNUInstallDirs)
+
 set(CMAKE_CXX_STANDARD 23)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
