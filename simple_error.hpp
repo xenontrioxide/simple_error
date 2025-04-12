@@ -1,6 +1,6 @@
 #include <string>
 #include <source_location>
-#include <stack_trace>
+#include <stacktrace>
 
 namespace simple_error
 {
